@@ -1,1 +1,1 @@
-https://mariuszmycek.github.io/Kodilla-18-2/
+https://mariuszmycek.github.io/Kodilla-18-2-React-basics/
